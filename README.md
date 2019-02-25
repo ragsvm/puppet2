@@ -1,1 +1,1 @@
-# puppet2
+#Course file for building professional Puppet Modules
